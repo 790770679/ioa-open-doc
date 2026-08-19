@@ -6,8 +6,6 @@
 
 | 参数名称 | 必选 | 类型 | 描述 |
 |---------|---------|---------|---------|
-| Action | 是 | String | [公共参数](/document/product/1679/14881?!preview&preview_docmenu=1&lang=cn&!document=1)，本接口取值：DeleteINacMacDynamicVLAN。 |
-| Version | 是 | String | [公共参数](/document/product/1679/14881?!preview&preview_docmenu=1&lang=cn&!document=1)，本接口取值：2022-06-01。 |
 | Ids.N | 是 | Array of Integer | <p>记录ID列表</p><br/>示例值：[1] |
 | MacAddresses.N | 否 | Array of String | <p>Mac地址列表</p><br/>示例值：["AA:BB:CC:DD:EE:FF"] |
 
