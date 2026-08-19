@@ -5,8 +5,8 @@
 ## 2. 输入参数
 
 | 参数名称 | 必选 | 类型 | 描述 |
-|---------|---------|---------|---------|
-| Ids.N | 是 | Array of Integer | <p>记录ID列表</p><br/>示例值：[1] |
+|---------|--------|---------|---------|
+| Ids.N | 否 | Array of Integer | <p>记录ID列表</p><br/>示例值：[1] |
 | MacAddresses.N | 否 | Array of String | <p>Mac地址列表</p><br/>示例值：["AA:BB:CC:DD:EE:FF"] |
 
 ## 3. 输出参数
