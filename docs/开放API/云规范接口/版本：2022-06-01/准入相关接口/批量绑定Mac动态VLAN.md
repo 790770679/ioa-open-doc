@@ -6,7 +6,7 @@
 
 | 参数名称 | 必选 | 类型 | 描述 |
 |---------|---------|---------|---------|
-| Items.N | 是 | Array of [MacDynamicVLANData](/document/product/1679/76684?!preview&preview_docmenu=1&lang=cn&!document=1#MacDynamicVLANData) | <p>MAC动态VLAN数据列表</p> |
+| Items.N | 是 | Array of [MacDynamicVLANData](/开放API/云规范接口/版本：2022-06-01/数据结构.md#MacDynamicVLANData) | <p>MAC动态VLAN数据列表</p> |
 
 ## 3. 输出参数
 

@@ -6,13 +6,13 @@
 
 | 参数名称 | 必选 | 类型 | 描述 |
 |---------|---------|---------|---------|
-| Condition | 否 | [Condition](/document/product/1679/76684?!preview&preview_docmenu=1&lang=cn&!document=1#Condition) | <p>条件过滤</p> |
+| Condition | 否 | [Condition](/开放API/云规范接口/版本：2022-06-01/数据结构.md#Condition) | <p>条件过滤</p> |
 
 ## 3. 输出参数
 
 | 参数名称 | 类型 | 描述 |
 |---------|---------|---------|
-| Data | [INacMacDynamicVLANsPageData](/document/product/1679/76684?!preview&preview_docmenu=1&lang=cn&!document=1#INacMacDynamicVLANsPageData) | <p>Mac绑定VLAN分页数据</p>|
+| Data | [INacMacDynamicVLANsPageData](/开放API/云规范接口/版本：2022-06-01/数据结构.md#INacMacDynamicVLANsPageData) | <p>Mac绑定VLAN分页数据</p>|
 | RequestId | String | 唯一请求 ID，由服务端生成，每次请求都会返回（若请求因其他原因未能抵达服务端，则该次请求不会获得 RequestId）。定位问题时需要提供该次请求的 RequestId。|
 
 ## 4. 示例
